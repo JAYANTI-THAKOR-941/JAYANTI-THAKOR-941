@@ -57,6 +57,7 @@
 | 🧑‍🏫 **SkillHub Portal** | Admin + Student dashboard system with course control and analytics | [View](https://github.com/JAYANTI-THAKOR-941/SkillHub-Portal) |
 | 🌱 **EcoIndia** | Platform for eco-products, green awareness, and sustainability | [View](https://github.com/JAYANTI-THAKOR-941/EcoIndia) |
 | 🛒 **FreshCart** | Grocery shopping web app with cart, filter, and checkout features | [View](https://github.com/JAYANTI-THAKOR-941/FreshCart) |
+| 🧠 **Computer Vision** | AI-based face detection system using Python and OpenCV | [View](https://github.com/JAYANTI-THAKOR-941/Computer-Vision-Project) |
 | 🍰 **Cake Shop (Django)** | Bakery website with real-time ordering and admin management | [View](https://github.com/JAYANTI-THAKOR-941/Cake-Shop-Project-using-Python-Django) |
 | 🌿 **Herba Care** | Herbal product website frontend using HTML, CSS, JS | [View](https://github.com/JAYANTI-THAKOR-941/Herba-Care-Frontend-Project) |
 
@@ -99,11 +100,62 @@
 
 ---
 
-## 📌 Profile Extras
+## 🧭 My Mission
 
-- ![Visitors](https://komarev.com/ghpvc/?username=JAYANTI-THAKOR-941&color=blueviolet&style=flat)
-- ![GitHub Stars](https://img.shields.io/github/stars/JAYANTI-THAKOR-941?style=social)
-- ![Followers](https://img.shields.io/github/followers/JAYANTI-THAKOR-941?label=Follow&style=social)
+> I aim to empower students, professionals, and communities through the right use of technology — especially in education, employment, and awareness.  
+> 💡 Let’s build technology for **Bharat**, not just for the internet.
+
+---
+
+## 📜 Certifications & Achievements
+
+- ✅ Certificate in Full Stack Web Development – *Prakshal IT Academy*
+- ✅ Python & Django Mastery – *Online Bootcamp*
+- ✅ Cloud Computing Basics – *AWS Academy*
+- ✅ Best Teaching & Mentoring Award – *TechSkillHub Community*
+- 🏆 100+ Students Trained | 10+ Real-Life Projects Delivered
+
+---
+
+## 💼 Open for Freelance & Collaboration
+
+I’m available for:
+- 🧠 Project-based freelance (MERN, Python, AI Integration)
+- 🎓 Workshops / Guest Lectures
+- 📊 Government or NGO-based Digital Projects
+- 👩‍💻 Portfolio / Resume Builder Tools
+- 💬 Mentorship in Coding or Tech Careers
+
+📨 Contact: jyantithakor941@gmail.com  
+📱 WhatsApp: +91 8160041921
+
+---
+
+## 🌍 Languages I Speak
+
+- 🗣️ English – Professional
+- 🗣️ Hindi – Fluent
+- 🗣️ Gujarati – Native
+
+---
+
+## 🙌 Shoutout & Inspiration
+
+Special thanks to:
+- **My Students** – for constantly pushing me to be better.
+- **My Mentors** – for their guidance in tech & teaching.
+- **Open Source Community** – for making learning global and free.
+- **Prakshal IT Academy** – for the platform to teach and inspire.
+
+---
+
+## 📦 Featured Repositories You Should Check
+
+- [🌟 TechSkillHub](https://github.com/JAYANTI-THAKOR-941/TechSkillHub)
+- [🧠 AI Resume Builder (Coming)](https://github.com/JAYANTI-THAKOR-941/AI-Resume-Builder)
+- [🌿 EcoIndia](https://github.com/JAYANTI-THAKOR-941/EcoIndia)
+- [🛍️ FreshCart](https://github.com/JAYANTI-THAKOR-941/FreshCart)
+- [👀 Computer Vision](https://github.com/JAYANTI-THAKOR-941/Computer-Vision-Project)
 
 ---
 
