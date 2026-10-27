@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Founder | Full Stack Developer | Cybersecurity Trainer | Software Educator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Founder+of+Ranaji+Infotech+Pvt.+Ltd.;Founder+of+TechSkillHub;Cybersecurity+%26+Ethical+Hacking+Trainer;MERN+Stack+%26+Full+Stack+Developer;Building+Digital+Solutions+for+Bharat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=1F51FF&center=true&vCenter=true&width=850&lines=Founder+of+Ranaji+Infotech+Pvt.+Ltd.;Founder+of+TechSkillHub;Cybersecurity+%26+Ethical+Hacking+Trainer;MERN+Stack+%26+Full+Stack+Developer;Building+Digital+Solutions+for+Bharat" alt="Typing SVG" />
 </p>
 
 <p align="center">
