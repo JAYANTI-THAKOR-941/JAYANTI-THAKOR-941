@@ -209,3 +209,15 @@ To create meaningful digital experiences, empower learners with practical skills
   <br/>
   <i>Building a stronger digital future for Bharat.</i>
 </p>
+
+---
+
+## Selected projects and teaching resources
+
+- [Prakshal Typing Tutor](https://github.com/JAYANTI-THAKOR-941/Prakshal-Typing-Tutor) — typing practice application.
+- [MovieZone](https://github.com/JAYANTI-THAKOR-941/MovieZone) — movie browsing and booking project.
+- [CCNA](https://github.com/JAYANTI-THAKOR-941/CCNA) — networking lab resources.
+- [Computer Hardware](https://github.com/JAYANTI-THAKOR-941/Computer-Hardware) — hardware and networking learning materials.
+- [Python for Cyber Security](https://github.com/JAYANTI-THAKOR-941/Python-For-Cyber-Security) — Python networking exercises for authorized labs.
+
+[Browse all repositories](https://github.com/JAYANTI-THAKOR-941?tab=repositories)
