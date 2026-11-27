@@ -1,16 +1,29 @@
-<div align="center">
+<div align="left">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:111827,55:312E81,100:6D28D9&height=170&section=header&text=Jayanti%20Thakor&fontSize=48&fontColor=FFFFFF&fontAlignY=43&desc=BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20EDUCATE&descSize=15&descAlignY=74" alt="Jayanti Thakor — Build, Secure, Educate" />
+<sub>CYBERSECURITY &nbsp; / &nbsp; ENGINEERING &nbsp; / &nbsp; EDUCATION</sub>
 
-### Cybersecurity & Networking Trainer | Full Stack Developer
+# Jayanti Thakor
 
-Founder of TechSkillHub · Creator of GenZHackars · Gandhinagar, India
+### Cybersecurity & Networking Trainer · Full Stack Developer
 
-[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](http://jayanti-thakor-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayanti-thakor-372801252)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAYANTI-THAKOR-941?tab=repositories)
+Building secure digital experiences and empowering the next generation of IT professionals.
+
+**Founder — TechSkillHub** &nbsp; · &nbsp; **Creator — GenZHackars**
+
+📍 Gandhinagar, Gujarat, India
+
+[![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](http://jayanti-thakor-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayanti-thakor-372801252)
+[![Projects](https://img.shields.io/badge/Explore_Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAYANTI-THAKOR-941?tab=repositories)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:312E81,50:7C3AED,100:22D3EE" alt="" />
+
+| SECURITY & NETWORKING | SOFTWARE DEVELOPMENT | TECH EDUCATION |
+| :--- | :--- | :--- |
+| Linux · CCNA · Python | React · Node.js · Django | Mentorship · Practical Labs |
+
 
 ---
 
